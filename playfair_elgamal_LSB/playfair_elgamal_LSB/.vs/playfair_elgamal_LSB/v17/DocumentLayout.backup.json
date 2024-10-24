@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|d:\\mata kuliah - del\\semester 5\\keamanan perangkat lunak\\week 9\\playfair_elgamal_lsb\\playfair_elgamal_lsb\\ee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|solutionrelative:ee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|solutionrelative:de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|solutionrelative:kunci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|solutionrelative:kunci.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|solutionrelative:kunci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\ee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|solutionrelative:ee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D578267A-DFB2-4050-BCCE-D4856FAB451D}|playfair_elgamal_LSB.csproj|solutionrelative:de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kunci.cs [Design]",
+              "DocumentMoniker": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.cs",
+              "RelativeDocumentMoniker": "kunci.cs",
+              "ToolTip": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.cs [Design]",
+              "RelativeToolTip": "kunci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:49:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kunci.Designer.cs",
+              "DocumentMoniker": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.Designer.cs",
+              "RelativeDocumentMoniker": "kunci.Designer.cs",
+              "ToolTip": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.Designer.cs",
+              "RelativeToolTip": "kunci.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:49:08.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kunci.cs",
+              "DocumentMoniker": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.cs",
+              "RelativeDocumentMoniker": "kunci.cs",
+              "ToolTip": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\kunci.cs",
+              "RelativeToolTip": "kunci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:49:08.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DE.cs",
+              "DocumentMoniker": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\DE.cs",
+              "RelativeDocumentMoniker": "DE.cs",
+              "ToolTip": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\DE.cs",
+              "RelativeToolTip": "DE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:49:08.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DE.cs [Design]",
+              "DocumentMoniker": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\DE.cs",
+              "RelativeDocumentMoniker": "DE.cs",
+              "ToolTip": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\DE.cs [Design]",
+              "RelativeToolTip": "DE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:49:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:49:08.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EE.cs",
+              "DocumentMoniker": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\EE.cs",
+              "RelativeDocumentMoniker": "EE.cs",
+              "ToolTip": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\EE.cs",
+              "RelativeToolTip": "EE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:49:08.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EE.cs [Design]",
+              "DocumentMoniker": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\EE.cs",
+              "RelativeDocumentMoniker": "EE.cs",
+              "ToolTip": "D:\\MATA KULIAH - DEL\\SEMESTER 5\\Keamanan Perangkat Lunak\\WEEK 9\\playfair_elgamal_LSB\\playfair_elgamal_LSB\\EE.cs [Design]",
+              "RelativeToolTip": "EE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:49:08.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

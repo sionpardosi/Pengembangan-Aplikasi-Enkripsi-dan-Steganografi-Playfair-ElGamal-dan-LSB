@@ -1,0 +1,61 @@
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe.config
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.pdb
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csprojResolveAssemblyReference.cache
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.exe
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.pdb
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.MainForm.resources
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.GenerateResource.Cache
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.DE.resources
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.EE.resources
+D:\farid\Desktop\yg belum\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.kunci.resources
+D:\Project\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe.config
+D:\Project\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.exe
+D:\Project\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.pdb
+D:\Project\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe
+D:\Project\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.pdb
+D:\Project\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csprojResolveAssemblyReference.cache
+D:\Project\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.DE.resources
+D:\Project\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.EE.resources
+D:\Project\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.kunci.resources
+D:\Project\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.MainForm.resources
+D:\Project\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.GenerateResource.Cache
+E:\Project\FIX\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe.config
+E:\Project\FIX\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe
+E:\Project\FIX\emel\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.pdb
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.AssemblyReference.cache
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.DE.resources
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.EE.resources
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.kunci.resources
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.MainForm.resources
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.GenerateResource.cache
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.CoreCompileInputs.cache
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.CopyComplete
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.exe
+E:\Project\FIX\emel\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.pdb
+D:\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe.config
+D:\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe
+D:\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.pdb
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.AssemblyReference.cache
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.DE.resources
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.EE.resources
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.kunci.resources
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.GenerateResource.cache
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.CoreCompileInputs.cache
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.CopyComplete
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.exe
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.pdb
+D:\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.Properties.Resources.resources
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe.config
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.exe
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\bin\Debug\playfair_elgamal_LSB.pdb
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.AssemblyReference.cache
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.DE.resources
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.EE.resources
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.kunci.resources
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.Properties.Resources.resources
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.GenerateResource.cache
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.csproj.CoreCompileInputs.cache
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair.019AFAB4.Up2Date
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.exe
+D:\MATA KULIAH - DEL\SEMESTER 5\Keamanan Perangkat Lunak\WEEK 9\playfair_elgamal_LSB\playfair_elgamal_LSB\obj\Debug\playfair_elgamal_LSB.pdb
