@@ -1,4 +1,10 @@
 # 🔐 Pengembangan Aplikasi Enkripsi dan Steganografi: Playfair, ElGamal, dan LSB
+Steganografi adalah seni menyembunyikan informasi rahasia dalam media yang tampak 
+biasa atau tidak mencurigakan. Istilah ini berasal dari bahasa Yunani, di mana "steganos" 
+berarti tersembunyi, dan "graphein" berarti menulis. Steganografi bertujuan untuk 
+menyembunyikan keberadaan pesan itu sendiri, bukan hanya isinya, sehingga hanya 
+penerima yang dituju yang bisa mengetahui bahwa ada pesan tersembunyi. Media yang 
+sering digunakan dalam steganografi termasuk gambar, audio, video, dan teks.
 
 ## 📜 Deskripsi Proyek
 Proyek ini merupakan implementasi gabungan dari **kriptografi** dan **steganografi** untuk menyembunyikan pesan rahasia di dalam gambar. Dua metode enkripsi yang digunakan adalah:
