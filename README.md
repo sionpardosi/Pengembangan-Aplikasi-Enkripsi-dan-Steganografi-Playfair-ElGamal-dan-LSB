@@ -1,4 +1,4 @@
-# 🔐 Pengembangan Aplikasi Enkripsi dan Steganografi: Playfair, ElGamal, dan LSB dalam Keamanan Perangkat Lunak
+# Aplikasi Enkripsi dan Steganografi: Playfair, ElGamal, dan LSB dalam Keamanan Perangkat Lunak
 Steganografi adalah seni menyembunyikan informasi rahasia dalam media yang tampak 
 biasa atau tidak mencurigakan. Istilah ini berasal dari bahasa Yunani, di mana "steganos" 
 berarti tersembunyi, dan "graphein" berarti menulis. Steganografi bertujuan untuk 
