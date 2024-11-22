@@ -6,6 +6,16 @@ menyembunyikan keberadaan pesan itu sendiri, bukan hanya isinya, sehingga hanya
 penerima yang dituju yang bisa mengetahui bahwa ada pesan tersembunyi. Media yang 
 sering digunakan dalam steganografi termasuk gambar, audio, video, dan teks.
 
+### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Code-C%23-blue?logo=csharp" />
+    <img src="https://img.shields.io/badge/Algorithm-Playfair%20Cipher-orange?logo=csharp" />
+    <img src="https://img.shields.io/badge/Algorithm-ElGamal-red?logo=csharp" />
+    <img src="https://img.shields.io/badge/Technique-LSB%20Steganography-green?logo=csharp" />
+    <img src="https://img.shields.io/badge/Editor-Visual%20Studio-blue?logo=visualstudio" />
+    <img src="https://img.shields.io/badge/Library-NET%20Framework-orange?logo=dotnet" />
+</p>
+
 ## 📜 Deskripsi Proyek
 Proyek ini merupakan implementasi gabungan dari **kriptografi** dan **steganografi** untuk menyembunyikan pesan rahasia di dalam gambar. Dua metode enkripsi yang digunakan adalah:
 - **Playfair Cipher**: Kriptografi klasik berbasis matriks.
