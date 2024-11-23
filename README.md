@@ -47,3 +47,47 @@ Proyek ini merupakan implementasi gabungan dari **kriptografi** dan **steganogra
 3. **Dekripsi Playfair**: Ciphertext hasil ElGamal didekripsi menggunakan Playfair Cipher untuk mendapatkan pesan asli.
 
 
+
+# Encryption and Steganography Application: Playfair, ElGamal, and LSB in Software Security
+
+Steganography is the art of concealing secret information within seemingly ordinary or unremarkable media. The term originates from Greek, where "steganos" means hidden, and "graphein" means to write. The goal of steganography is to hide the existence of the message itself, not just its content, so that only the intended recipient can detect the presence of the hidden message. Common media used in steganography include images, audio, video, and text.
+
+## 📜 Project Description
+This project is a combined implementation of **cryptography** and **steganography** aimed at hiding secret messages within images. The two encryption methods used are:
+- **Playfair Cipher**: A classical matrix-based encryption method.
+- **ElGamal**: A modern asymmetric encryption algorithm that offers stronger security.
+- **Least Significant Bit (LSB) Steganography**: A steganographic technique that embeds the message in the least significant bits of a digital image.
+
+⚙️ **Primary objectives of the project**:
+1. Encrypt the message using **Playfair** and **ElGamal** algorithms.
+2. Embed the encrypted message into an image using **LSB Steganography**.
+3. Extract and decrypt the message from the embedded image to retrieve the original **plaintext**.
+
+## 🚀 Key Features
+- **Playfair Cipher**: A classical encryption method utilizing a 5x5 matrix and a specific key.
+- **ElGamal Encryption**: A modern encryption technique that uses public and private keys for enhanced security.
+- **LSB Steganography**: A technique to hide data within a digital image without visually altering its appearance.
+
+## 🛠️ How It Works
+
+### 1. 🔒 Encryption & Embedding (Message Insertion)
+1. **Generate ElGamal Keys**: Generate a public and private key pair for asymmetric encryption.
+2. **Encrypt with Playfair & ElGamal**: 
+   - The plaintext is first encrypted using the **Playfair Cipher**.
+   - The resulting ciphertext is then further encrypted with **ElGamal**.
+3. **Embed into Image**: The final encrypted message is embedded into an image using **LSB Steganography**, modifying the least significant bits of the image’s pixels.
+
+### 2. 🔓 Extraction & Decryption
+1. **Extract the Message**: The program extracts the hidden ciphertext from the image.
+2. **Decrypt with ElGamal**: The first layer of ciphertext is decrypted using the ElGamal private key.
+3. **Decrypt with Playfair**: The ElGamal-decrypted ciphertext is then decrypted using the Playfair Cipher to retrieve the original message.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contribution & Feedback:
+We are very open to contributions and feedback from the community. For more information or any questions, feel free to contact us via [spardosi12@gmail.com](mailto:spardosi12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sion-pardosi-961607254/).
+
+
