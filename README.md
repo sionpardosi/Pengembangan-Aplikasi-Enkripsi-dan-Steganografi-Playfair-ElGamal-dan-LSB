@@ -6,6 +6,16 @@ menyembunyikan keberadaan pesan itu sendiri, bukan hanya isinya, sehingga hanya
 penerima yang dituju yang bisa mengetahui bahwa ada pesan tersembunyi. Media yang 
 sering digunakan dalam steganografi termasuk gambar, audio, video, dan teks.
 
+## Jurnal PDF
+
+Anda dapat membaca lebih lanjut tentang pengujian dan analisis teknik steganografi menggunakan metode Playfair, ElGamal, dan LSB pada jurnal berikut:
+
+- [Pengujian dan Analisis Teknik Steganografi Menggunakan Metode Playfair, ElGamal, dan LSB untuk Penyembunyian Data pada Gambar Digital dalam Aplikasi Modern](https://github.com/sionpardosi/Pengembangan-Aplikasi-Enkripsi-dan-Steganografi-Playfair-ElGamal-dan-LSB/blob/main/Pengujian%20dan%20Analisis%20Teknik%20Steganografi%20Menggunakan%20Metode%20Playfair%2C%20ElGamal%2C%20dan%20LSB%20untuk%20Penyembunyian%20Data%20pada%20Gambar%20Digital%20dalam%20Aplikasi%20Modern.pdf)
+
+Atau menggunakan versi tertentu dari repositori:
+
+- [Versi Khusus](https://github.com/sionpardosi/Pengembangan-Aplikasi-Enkripsi-dan-Steganografi-Playfair-ElGamal-dan-LSB/blob/36c39a2722f7d4bb7db6a0a747bc9561c7435fc4/Pengujian%20dan%20Analisis%20Teknik%20Steganografi%20Menggunakan%20Metode%20Playfair%2C%20ElGamal%2C%20dan%20LSB%20untuk%20Penyembunyian%20Data%20pada%20Gambar%20Digital%20dalam%20Aplikasi%20Modern.pdf)
+
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Code-C%23-blue?logo=csharp" />
