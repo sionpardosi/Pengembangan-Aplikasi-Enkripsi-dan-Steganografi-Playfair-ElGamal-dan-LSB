@@ -8,7 +8,7 @@ sering digunakan dalam steganografi termasuk gambar, audio, video, dan teks.
 
 ## 📄 Jurnal: Pengujian dan Analisis Teknik Steganografi Menggunakan Metode Playfair, ElGamal, dan LSB
 
-Pelajari lebih lanjut tentang pengujian dan analisis teknik steganografi menggunakan metode **Playfair**, **ElGamal**, dan **LSB** yang diterapkan pada gambar digital dalam aplikasi modern.
+Pelajari lebih lanjut tentang Pengujian dan Analisis Teknik Steganografi Menggunakan Metode **Playfair**, **ElGamal**, dan **LSB** untuk Penyembunyian Data pada Gambar Digital dalam Aplikasi Modern.
 
 📌 **Baca Jurnal PDF di Repository**  
 Anda dapat mengunduh dan membaca jurnal lengkap saya di repository GitHub berikut:  
