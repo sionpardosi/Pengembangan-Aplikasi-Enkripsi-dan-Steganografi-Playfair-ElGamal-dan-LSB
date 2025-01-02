@@ -6,16 +6,24 @@ menyembunyikan keberadaan pesan itu sendiri, bukan hanya isinya, sehingga hanya
 penerima yang dituju yang bisa mengetahui bahwa ada pesan tersembunyi. Media yang 
 sering digunakan dalam steganografi termasuk gambar, audio, video, dan teks.
 
-## Jurnal PDF
+## 📄 Jurnal: Pengujian dan Analisis Teknik Steganografi Menggunakan Metode Playfair, ElGamal, dan LSB
 
-Anda dapat membaca lebih lanjut tentang pengujian dan analisis teknik steganografi menggunakan metode Playfair, ElGamal, dan LSB pada **Jurnal Saya** berikut:
+Pelajari lebih lanjut tentang pengujian dan analisis teknik steganografi menggunakan metode **Playfair**, **ElGamal**, dan **LSB** yang diterapkan pada gambar digital dalam aplikasi modern.
 
-- [Pengujian dan Analisis Teknik Steganografi Menggunakan Metode Playfair, ElGamal, dan LSB untuk Penyembunyian Data pada Gambar Digital dalam Aplikasi Modern](https://github.com/sionpardosi/Pengembangan-Aplikasi-Enkripsi-dan-Steganografi-Playfair-ElGamal-dan-LSB/blob/main/Pengujian%20dan%20Analisis%20Teknik%20Steganografi%20Menggunakan%20Metode%20Playfair%2C%20ElGamal%2C%20dan%20LSB%20untuk%20Penyembunyian%20Data%20pada%20Gambar%20Digital%20dalam%20Aplikasi%20Modern.pdf)
+📌 **Baca Jurnal PDF di Repository**  
+Anda dapat mengunduh dan membaca jurnal lengkap saya di repository GitHub berikut:  
+[🔗 Jurnal: Pengujian dan Analisis Teknik Steganografi](https://github.com/sionpardosi/Pengembangan-Aplikasi-Enkripsi-dan-Steganografi-Playfair-ElGamal-dan-LSB/blob/main/%5BJURNAL%5D%20Pengujian%20dan%20Analisis%20Teknik%20Steganografi%20Menggunakan%20Metode%20Playfair%2C%20ElGamal%2C%20dan%20LSB%20untuk%20Penyembunyian%20Data%20pada%20Gambar%20Digital%20dalam%20Aplikasi%20Modern.pdf)
 
-Atau membaca versi dari repositori saya:
+📖 **Baca Jurnal yang Telah Dipublikasikan**  
+Jurnal ini juga telah diterbitkan di **JURNAL QUANCOM: QUANTUM COMPUTER JURNAL**. Anda dapat mengaksesnya melalui tautan berikut:  
+[🔗 Pengujian dan Analisis Teknik Steganografi](https://journal.iteba.ac.id/index.php/jurnal_quancom/article/view/422)
 
-- [Versi Khusus](https://github.com/sionpardosi/Pengembangan-Aplikasi-Enkripsi-dan-Steganografi-Playfair-ElGamal-dan-LSB/blob/36c39a2722f7d4bb7db6a0a747bc9561c7435fc4/Pengujian%20dan%20Analisis%20Teknik%20Steganografi%20Menggunakan%20Metode%20Playfair%2C%20ElGamal%2C%20dan%20LSB%20untuk%20Penyembunyian%20Data%20pada%20Gambar%20Digital%20dalam%20Aplikasi%20Modern.pdf)
+---
 
+✍️ *Penulis: Sion Pardosi, Melvayana Manik, dan Irene Mutiara Situmorang*  
+📅 *Publikasi: Vol. 2 No. 2 (2024)*
+
+---
 
 ## 📜 Deskripsi Proyek
 Proyek ini merupakan implementasi gabungan dari **kriptografi** dan **steganografi** untuk menyembunyikan pesan rahasia di dalam gambar. Dua metode enkripsi yang digunakan adalah:
